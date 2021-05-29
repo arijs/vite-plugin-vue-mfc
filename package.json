@@ -1,6 +1,6 @@
 {
 	"name": "@arijs/vite-plugin-vue-mfc",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"license": "MIT",
 	"author": "Rafael Hengles <rhengles@gmail.com>",
 	"files": [
