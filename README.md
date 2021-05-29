@@ -46,6 +46,8 @@ You can have this:
 ```
 
 ```js
+// HelloWorld.js
+//
 // Paths are relative from where the folder is contained, not the files
 // In this case, it's relative from 'components/', not from 'HelloWorld/'
 // Think of the folder as a virtual 'HelloWorld.vue' file
