@@ -1,0 +1,24 @@
+{
+	"name": "@arijs/vite-plugin-vue-mfc",
+	"version": "0.0.0",
+	"license": "MIT",
+	"author": "Rafael Hengles <rhengles@gmail.com>",
+	"files": [
+		"index.js"
+	],
+	"main": "index.js",
+	"engines": {
+		"node": ">=14.0.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/arijs/vite-plugin-vue-mfc.git"
+	},
+	"bugs": {
+		"url": "https://github.com/arijs/vite-plugin-vue-mfc/issues"
+	},
+	"homepage": "https://github.com/arijs/vite-plugin-vue-mfc#readme",
+	"dependencies": {
+		"@rollup/pluginutils": "^4.1.0"
+	}
+}
