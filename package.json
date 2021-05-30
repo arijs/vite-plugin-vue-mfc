@@ -1,15 +1,16 @@
 {
 	"name": "@arijs/vite-plugin-vue-mfc",
+	"version": "0.1.0",
 	"publishConfig": {
 		"access": "public"
 	},
-	"version": "0.1.0",
+	"type": "module",
 	"license": "MIT",
 	"author": "Rafael Hengles <rhengles@gmail.com>",
 	"files": [
-		"index.js"
+		"index.mjs"
 	],
-	"main": "index.js",
+	"main": "index.mjs",
 	"engines": {
 		"node": ">=14.0.0"
 	},
